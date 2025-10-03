@@ -19,6 +19,15 @@
                     <li>Guitar picks</li>
                 </ul>
             </div>
+            <div class="module">
+                <img src="#" alt="mod_2">
+                <h3>Module 2</h3>
+                <p>The second module covers first chords and a basic song.</p>
+                <ul>
+                    <li>Am, Amaj, Cmaj, Em, Emaj, Dmaj, Gmaj chords</li>
+                    <li>First song: "Good Riddance (Time of Your Life)- Green Day"
+                </ul>
+            </div>
         </div>
     </body>
 </html>
