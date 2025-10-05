@@ -9,6 +9,7 @@
         <h1>Free Guitar Lessons</h1>
         <div class="content">
             <h2>Welcome to free guitar lessons! Look below to get started with modules.</h2>
+            
             <div class="module">
                 <img src="./images/lesson1fgl.jpeg" alt="mod_1">
                 <h3>Module 1</h3>
@@ -29,6 +30,16 @@
                     <li>First song: "Good Riddance (Time of Your Life)- Green Day"
                 </ul>
             </div>
+            <div class="module">
+                <img src="./images/lesson3fgl.jpeg" alt="mod_3">
+                <h3>Module 3</h3>
+                <p>Module three begins to get into more difficult territory to add variety to your playing.</p>
+                <ul>
+                    <li>Strumming patterns</li>
+                    <li>More advanced song</li>
+                </ul>
+            </div>
+
         </div>
     </body>
 </html>
